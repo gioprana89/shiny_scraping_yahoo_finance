@@ -1,0 +1,13 @@
+name: trik-rshiny-2
+title: trik-rshiny-2
+username:
+account: shareyourshinyapp1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8354553
+bundleId: 6863231
+url: https://shareyourshinyapp1.shinyapps.io/trik-rshiny-2/
+when: 1676811619.93329
+lastSyncTime: 1676811619.9333
+asMultiple: FALSE
+asStatic: FALSE
